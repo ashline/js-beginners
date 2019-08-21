@@ -38,6 +38,8 @@ $ cd js-beginners
 
 1. Introduction
 
+   [Presentation](https://docs.google.com/presentation/d/1V5vsBr20x563akwmiF3LzUoTWhpNENAyWjUVN9AXQ70/edit?usp=sharing)
+
 - Setting up environment
 - Scope and goal of course
 - General description of Javascript role in frontend and backend development

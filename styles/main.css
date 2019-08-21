@@ -2,4 +2,22 @@ body {
   background-color: cadetblue;
   font-size: 30px;
   color: white;
+  margin: 0;
+}
+html,
+body {
+  height: 100%;
+}
+#side-one {
+  background-color: chocolate;
+  width: 50%;
+  height: 100%;
+  float: left;
+}
+
+#side-two {
+  background-color: cadetblue;
+  width: 50%;
+  height: 100%;
+  float: right;
 }
