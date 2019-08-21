@@ -1,0 +1,22 @@
+{
+  "name": "js-beginners",
+  "version": "1.0.0",
+  "description": "Hands on course for Javascript beginners",
+  "main": "index.js",
+  "scripts": {
+    "serve": "npx serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashline/js-beginners.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashline/js-beginners/issues"
+  },
+  "homepage": "https://github.com/ashline/js-beginners#readme",
+  "dependencies": {
+    "serve": "^11.1.0"
+  }
+}
